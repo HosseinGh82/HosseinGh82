@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hossein Ghermezcheshme</h1>
 <h3 align="center">Exploring New Technologies and Building Projects to Learn and Grow</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hosseingh12" alt="hosseingh12" /></a> </p>
+- 🔭 I’m currently working on **Software Engineering, Machine Learning, Deep Learning, Reinforcement Learning and Image processing**
 
-- 🔭 I’m currently working on **Software Engineering, ML, DL, RL and Image processing**
-
-- 🌱 I’m currently learning **Reinforcement learning, Docker and Golang**
+- 🌱 I’m currently learning **Reinforcement learning, Docker and Golang programing**
 
 - 📫 How to reach me **hossein.ghermezcheshme@gmail.com**
 
